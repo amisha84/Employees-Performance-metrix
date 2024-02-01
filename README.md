@@ -1,7 +1,7 @@
 # Employees-Performance-metrix
 For making dashboard first be insure that is your data should be clean properly.
 The base on data i have create the dashboard regarding employees performance there age and bases on gender.
-I have use multiple chats and KPIs for showing the total employees,there average age,salary and other details.
+I have use multiple chats and KPIs for showing the total employees,there age,average salary and other details.
 For calculating age group i used mention DAX formula,
 Age Group = 
 SWITCH(
